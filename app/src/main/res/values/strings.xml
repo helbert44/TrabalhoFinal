@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MY APP</string>
+    <string name="txtNome">Nome:</string>
+    <string name="btn01">Acessar</string>
+    <string name="txtNavegador">Meus Favoritos</string>
+    <string name="btnPortal">Acessar Portal Kroton</string>
+    <string name="btnBiblioteca">Acessar Biblioteca</string>
+    <string name="btnImagem">Acessar Imagem Exemplo</string>
+    <string name="btnBaixaImg">Exibir Imagem</string>
+    <string name="edtDados">Criado por: Helbert S Ribeiro<br></br>
+                            RA: 15799854078
+                            Sistemas de Informação
+                            Disciplina: Tec. para Desenvolvimento Web
+    </string>
+</resources>
